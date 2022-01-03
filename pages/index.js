@@ -26,11 +26,7 @@ export default function Home({ allPostsData }) {
           Hello, I’m <strong>Peter</strong>. I’m a software engineer who is passionate about python and testing.
           You can contact me on{' '}
           <a href="https://twitter.com/peterintest">Twitter</a> and{' '}
-          <a href="https://twitter.com/peterintest">LinkedIn</a>.
-        </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://www.linkedin.com/in/peterintest">LinkedIn</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
